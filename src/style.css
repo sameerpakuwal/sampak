@@ -1,0 +1,63 @@
+body{background-color: #56B6B8}
+
+.OpeningStatement{
+  
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: White;
+  border-width: 2px;
+  padding-left: 4px;
+  font-family: "Verdanaw", Courier, monospace;
+  text-align: center;
+}
+
+.Description{
+  font-size: 1.5em;
+}
+
+
+.header {
+  text-align: center;
+  color: Purple;
+  font-size: 2.5em;
+}
+
+.header2 {
+  text-align: left;
+  color:red;
+  font-size: 1.5em;
+}
+
+.list1{
+  color: rgb(138,100,250);
+}
+
+.seed{
+  float: right;
+}
+
+.img1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.boxdiv {
+  /*A blue box with rounded corners div*/
+  background-color: yellow;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+
+
+table {
+  /*puts table in the center of the page*/
+  margin: auto;
+}
